@@ -112,12 +112,13 @@
    <text xml:lang="eng">
       <front>
          <div type="half_title">
-            <pb facs="tcp:014450_0000_0F925F6F37091C80"/>
-            <pb facs="tcp:014450_0001_0F925F704EAC9398"/>
+            <pb facs="unknown:014450_0000_0F925F6F37091C80"/>
+            <pb facs="unknown:014450_0001_0F925F704EAC9398"/>
             <p>Mr. <hi>SAMSON</hi>'s SERMON Preached JULY 20th, 1775.</p>
          </div>
          <div type="title_page">
-            <pb facs="tcp:014450_0002_0F925F70E80F95B0" rendition="simple:additions"/>
+            <pb facs="unknown:014450_0002_0F925F70E80F95B0"
+                rendition="simple:additions"/>
             <p>A SERMON PREACHED AT ROXBURY-CAMP, Before Col. COTTON's Regiment; On the 20th of JULY, P. M. 1775. BEING A Day ſet apart for Faſting and Prayer, through<g ref="char:EOLhyphen"/>out all the United Colonies in AMERICA.</p>
             <p>By EZRA SAMSON, Colleague Paſtor of the Firſt Church in Plymton.</p>
             <p>[Publiſhed at the Requeſt of the Officers of ſaid Regiment.]</p>
@@ -130,7 +131,7 @@
       </front>
       <body>
          <div type="sermon">
-            <pb facs="tcp:014450_0003_0F925F717B7F6E18"/>
+            <pb facs="unknown:014450_0003_0F925F717B7F6E18"/>
             <head>A SERMON.</head>
             <epigraph>
                <q>
@@ -145,7 +146,7 @@
             <p>Among the numerous <hi>examples</hi> of this kind, ſcarce any are either more lovely in themſelves, or more worthy of our obſervation, eſpecially at the preſent day, than thoſe wherein the ſaint and the ſoldier were united.</p>
             <p>
                <pb n="6"
-                   facs="tcp:014450_0004_0F925F7505CD7940"
+                   facs="unknown:014450_0004_0F925F7505CD7940"
                    rendition="simple:additions"/>A character like this ſhines with a peculiarly charming luſtre.</p>
             <p>What can give us a more exalted idea of hu<g ref="char:EOLhyphen"/>man nature, than to ſee Moſes, Joſhua, David, and others of a like nobleneſs of ſoul going forth un<g ref="char:EOLhyphen"/>dauntedly againſt their enemies, with <hi>the word of God in their mouths,</hi> as well as <hi>a two-edged ſword in their hands?</hi>
             </p>
@@ -157,7 +158,7 @@
             <p>This was acting a very prudent and commenda<g ref="char:EOLhyphen"/>ble part; but ſenſible however of this eternal truth, that <hi>there was no wiſdom or counſel againſt the Lord;</hi> it is added, that <hi>he ſought to the Lord God of his father, and walked in his commandments: Therefore the Lord eſtabliſhed the kingdom in his hand; and all Judah brought to Johoſhaphat pre<g ref="char:EOLhyphen"/>ſents, and he had riches in abundance.</hi>
             </p>
             <p>
-               <pb n="7" facs="tcp:014450_0005_0F925F7542C83820"/>He now ſets upon the very pinacle of honour, in a ſituation extremely critical. For in honor of preferment, there is ſomething intoxicating, which is commonly too much for weak heads.</p>
+               <pb n="7" facs="unknown:014450_0005_0F925F7542C83820"/>He now ſets upon the very pinacle of honour, in a ſituation extremely critical. For in honor of preferment, there is ſomething intoxicating, which is commonly too much for weak heads.</p>
             <p>But how is it with Jehoſhaphat? How does he behave himſelf in this exalted ſtation, and un<g ref="char:EOLhyphen"/>der the richeſt ſmiles of proſperity?</p>
             <p>'Tis ſaid, that hereupon <hi>his heart was lifted up in the ways of the Lord.</hi>
             </p>
@@ -172,7 +173,7 @@
             </p>
             <p>Such an apparent tenderneſs toward his men, accompanied with profeſſed confidence in the divine protection<g ref="char:punc">▪</g> was doubtleſs of very happy conſe<g ref="char:EOLhyphen"/>quence, filling them with great love and reſpect to their generous commander, and raiſing their ſpirits to a ſublime pitch.</p>
             <p>
-               <pb n="8" facs="tcp:014450_0006_0F925F7600334CD0"/>How beautiful to ſee intrepidity, without raſh<g ref="char:EOLhyphen"/>neſs or pride? Courage guided by counſel and wiſdom, and an air of dignity ſoftened by gentleneſs and ſweetneſs of behaviour! But I can recollect ſcarce any thing recorded of this good king that does him more honor than the <hi>prayer</hi> in our <hi>text;</hi> the occaſion whereof was this—A very nu<g ref="char:EOLhyphen"/>merous hoſt, conſiſting of the inhabitants of Am<g ref="char:EOLhyphen"/>mon, Moab and Mount Seir, had come up againſt him, and invaded his dominions.</p>
+               <pb n="8" facs="unknown:014450_0006_0F925F7600334CD0"/>How beautiful to ſee intrepidity, without raſh<g ref="char:EOLhyphen"/>neſs or pride? Courage guided by counſel and wiſdom, and an air of dignity ſoftened by gentleneſs and ſweetneſs of behaviour! But I can recollect ſcarce any thing recorded of this good king that does him more honor than the <hi>prayer</hi> in our <hi>text;</hi> the occaſion whereof was this—A very nu<g ref="char:EOLhyphen"/>merous hoſt, conſiſting of the inhabitants of Am<g ref="char:EOLhyphen"/>mon, Moab and Mount Seir, had come up againſt him, and invaded his dominions.</p>
             <p>Upon receiving intelligence of which, <hi>Jehoſha<g ref="char:EOLhyphen"/>phat ſet himſelf to ſeek the Lord, and proclaimed a Faſt throughout all Judah: And Judah gathered themſelves together to aſk help of the Lord.</hi>
             </p>
             <p>
@@ -184,7 +185,7 @@
             <p>On <hi>one</hi> ſide are fathers anxious for the ſafety of their dear families and country; on <hi>another,</hi> tender afflicted mothers, with their little children.</p>
             <p>
                <hi>Here,</hi> with countenances <hi>ſedate,</hi> ſtand rows of ſtateſmen and politicians; <hi>there,</hi> a numerous
-<pb n="9" facs="tcp:014450_0007_0F925F7A641FAA58"/>
+<pb n="9" facs="unknown:014450_0007_0F925F7A641FAA58"/>
 throng of brave and gallant ſoldiers: <hi>All</hi> in <hi>deep<g ref="char:EOLhyphen"/>eſt ſilence,</hi> and with their eyes <hi>fixed</hi> on their greatly beloved and much reſpected <hi>Prince,</hi> liſten<g ref="char:EOLhyphen"/>ing to hear him begin his ſolemn addreſs to heaven.</p>
             <p>Whereupon, with the greateſt ſolemnity, he at length breaks forth in theſe pertinent and moving expreſſions, <hi>O Lord God of our fathers, art not thou God in Heaven? And ruleſt not thou over all the kingdoms of the heathen? And in thine hand is there not power and might, ſo that none is able to withſtand thee?</hi>
             </p>
@@ -195,7 +196,7 @@ throng of brave and gallant ſoldiers: <hi>All</hi> in <hi>deep<g ref="char:EOLh
             <p>But I now proceed to a particular conſideration of Jehoſhaphat's <hi>prayer,</hi> more eſpecially that part of it which our <hi>text</hi> contains; wherein theſe <hi>four</hi> things are very obſervable:</p>
             <p>He pleads the goodneſs and righteouſneſs of his <hi>cauſe,</hi> appeals to God to judge between him and his enemies, acknowledges his utter <hi>inability</hi> without divine aſſiſtance, either to conquer or with<g ref="char:EOLhyphen"/>ſtand them, and profeſſes to repoſe an entire truſt and confidence in God.</p>
             <p>
-               <pb n="10" facs="tcp:014450_0008_0F925F7A98A6F578"/>Firſt, He pleads the goodneſs and righteouſ<g ref="char:EOLhyphen"/>neſs of his <hi>cauſe. Behold, I ſay, how they reward us, to come to caſt us out of thy poſſeſſion, which thou haſt given us to inherit.</hi> In the preceeding verſe, he intimates that his people had always behaved <hi>inoffenſive</hi> toward theſe invaders; never giving them any occaſion thus to commence hoſtilities. And now behold, ſays he, <hi>the children of Ammon, and Moab, and Mount Seir, whom thou wouldeſt not let Iſrael invade, when they came out of the land of Epypt; but they turned from them and de<g ref="char:EOLhyphen"/>ſtroyed them</hi> 
+               <pb n="10" facs="unknown:014450_0008_0F925F7A98A6F578"/>Firſt, He pleads the goodneſs and righteouſ<g ref="char:EOLhyphen"/>neſs of his <hi>cauſe. Behold, I ſay, how they reward us, to come to caſt us out of thy poſſeſſion, which thou haſt given us to inherit.</hi> In the preceeding verſe, he intimates that his people had always behaved <hi>inoffenſive</hi> toward theſe invaders; never giving them any occaſion thus to commence hoſtilities. And now behold, ſays he, <hi>the children of Ammon, and Moab, and Mount Seir, whom thou wouldeſt not let Iſrael invade, when they came out of the land of Epypt; but they turned from them and de<g ref="char:EOLhyphen"/>ſtroyed them</hi> 
                <gap reason="illegible: indecipherable" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap>.</p>
@@ -204,7 +205,7 @@ throng of brave and gallant ſoldiers: <hi>All</hi> in <hi>deep<g ref="char:EOLh
             <p>And now what vile returns are made by the children of Ammon, Moab, and Edom, for this indulgence? Living nigh, they knew full well what wonders God had wrought for Iſrael; how he had deſtroyed the heathen before them, and gi<g ref="char:EOLhyphen"/>ven them the land of Canaan for their inheritance.</p>
             <p>They could not fail of knowing likewiſe, that unleſs propitious Heaven had forbid, <hi>they them<g ref="char:EOLhyphen"/>ſelves,</hi> no leſs than the nations round about them, would have been deſtroyed by Iſrael's conquering ſword.</p>
             <p>
-               <pb n="11" facs="tcp:014450_0009_0F925F7C4192D500"/>Their very <hi>exiſtence</hi> was, in a great meaſure, owing to <hi>this,</hi> that the hearts of this victorious people were ſoftened and drawn out in benevo<g ref="char:EOLhyphen"/>lence toward them, ſo as to let them live quietly by their very borders, while they cruſhed and ut<g ref="char:EOLhyphen"/>terly extirpated others.</p>
+               <pb n="11" facs="unknown:014450_0009_0F925F7C4192D500"/>Their very <hi>exiſtence</hi> was, in a great meaſure, owing to <hi>this,</hi> that the hearts of this victorious people were ſoftened and drawn out in benevo<g ref="char:EOLhyphen"/>lence toward them, ſo as to let them live quietly by their very borders, while they cruſhed and ut<g ref="char:EOLhyphen"/>terly extirpated others.</p>
             <p>Why therefore this <hi>invaſion?</hi> What an <hi>unpro<g ref="char:EOLhyphen"/>voked</hi> injury are the invaders guilty of?</p>
             <p>Who gave them the licence to ſeize the land of Iſrael, or endeavour to diſpoſſeſs this highly ſa<g ref="char:EOLhyphen"/>voured people of the inheritance which their God had bequeathed them? Or who <hi>provoked</hi> them thus to over-leap their own boundaries?</p>
             <p>Jehoſhaphat and his people ſtood in a <hi>good</hi> cauſe; in the juſt defence of every thing that was dear and ſacred, while their <hi>enemies</hi> acted the part of bloody villains and robbers.</p>
@@ -215,7 +216,7 @@ throng of brave and gallant ſoldiers: <hi>All</hi> in <hi>deep<g ref="char:EOLh
                <hi>O! our God, wilt thou not judge them?</hi>
             </p>
             <p>
-               <pb n="12" facs="tcp:014450_0010_0F925F7CB92A23D8"/>As if he had ſaid, is it conſiſtent with the <hi>honour</hi> of thy wiſe and righteous government to ſuffer ſuch high handed injuſtice and wickedneſs to go off <hi>triumphant?</hi> while theſe avaricious and graſp<g ref="char:EOLhyphen"/>ing nations, not content with their own pleaſant allotments, have without the leaſt provocation, confederated together in order to deprive us of this goodly land, of our privileges and every thing that is dear, can thy thunders <hi>ſleep</hi>? can vengeance be <hi>inactive</hi>? With reſpect to the <hi>righteouſneſs</hi> of our <hi>cauſe,</hi> Lord, we humbly ap<g ref="char:EOLhyphen"/>peal to thee. Thou knoweſt that we are injured and unjuſtly invaded. Self-preſervation is a law of thine, ingraven on our hearts, and written in thy word; a <hi>violation</hi> of which would be highly ſin<g ref="char:EOLhyphen"/>ful. Therefore not only <hi>intereſt</hi> but our own <hi>conſciences</hi> forbid us to <hi>relinquiſh</hi> this cauſe: And wilt Thou not plead and vindicate it, by putting our enemies to ſhame and confuſion?</p>
+               <pb n="12" facs="unknown:014450_0010_0F925F7CB92A23D8"/>As if he had ſaid, is it conſiſtent with the <hi>honour</hi> of thy wiſe and righteous government to ſuffer ſuch high handed injuſtice and wickedneſs to go off <hi>triumphant?</hi> while theſe avaricious and graſp<g ref="char:EOLhyphen"/>ing nations, not content with their own pleaſant allotments, have without the leaſt provocation, confederated together in order to deprive us of this goodly land, of our privileges and every thing that is dear, can thy thunders <hi>ſleep</hi>? can vengeance be <hi>inactive</hi>? With reſpect to the <hi>righteouſneſs</hi> of our <hi>cauſe,</hi> Lord, we humbly ap<g ref="char:EOLhyphen"/>peal to thee. Thou knoweſt that we are injured and unjuſtly invaded. Self-preſervation is a law of thine, ingraven on our hearts, and written in thy word; a <hi>violation</hi> of which would be highly ſin<g ref="char:EOLhyphen"/>ful. Therefore not only <hi>intereſt</hi> but our own <hi>conſciences</hi> forbid us to <hi>relinquiſh</hi> this cauſe: And wilt Thou not plead and vindicate it, by putting our enemies to ſhame and confuſion?</p>
             <p>
                <hi>The judge of all the earth</hi> ever did and ever will <hi>do right;</hi> and whenever he ſuffers a <hi>righteous</hi> cauſe to be <hi>loſt,</hi> it is through the <hi>miſmanagement</hi> and <hi>wickedneſs</hi> of thoſe who are <hi>concerned</hi> in it, and becauſe they will not ſuitably implore his counſel and aſſiſtance, or walk agreeable to his rules and directions.</p>
             <p>The <hi>third</hi> thing noted as worthy of obſervation in this excellent <hi>prayer</hi> of Jehoſhaphat, <hi>is,</hi> that he acknowledges his utter <hi>inability,</hi> without divine aſſiſtance, either to conquer or withſtand his inva<g ref="char:EOLhyphen"/>ding foes.</p>
@@ -223,7 +224,7 @@ throng of brave and gallant ſoldiers: <hi>All</hi> in <hi>deep<g ref="char:EOLh
                <hi>We have no might againſt this great company that cometh againſt us.</hi>
             </p>
             <p>
-               <pb n="13" facs="tcp:014450_0011_0F925F7D782EB0C0"/>He does not ſay our own ſtrength is <hi>ſmall</hi> and <hi>inſufficient</hi>; but we have <hi>no</hi> might—Of <hi>ourſelves</hi> we are <hi>nothing</hi> and can <hi>do nothing.</hi>
+               <pb n="13" facs="unknown:014450_0011_0F925F7D782EB0C0"/>He does not ſay our own ſtrength is <hi>ſmall</hi> and <hi>inſufficient</hi>; but we have <hi>no</hi> might—Of <hi>ourſelves</hi> we are <hi>nothing</hi> and can <hi>do nothing.</hi>
             </p>
             <p>And to the want of <hi>power</hi> be ſubjoins alſo his confeſſion of their want of <hi>wiſdom.</hi>
             </p>
@@ -243,7 +244,7 @@ throng of brave and gallant ſoldiers: <hi>All</hi> in <hi>deep<g ref="char:EOLh
             <p>He very well knew, and piouſly and wiſely conſidered that though his walls were never ſo lofty and impregnable, or his armies never ſo nu<g ref="char:EOLhyphen"/>merous and brave, he muſt quickly ſink and fall, unleſs favoured by <hi>divine</hi> aſſiſtance.</p>
             <p>Notwithſtanding all his <hi>ſeeming</hi> might and proweſs, he <hi>felt</hi> himſelf to be a weak and feeble creature, entirely <hi>dependant</hi> upon God for protec<g ref="char:EOLhyphen"/>tion and ſucceſs.</p>
             <p>
-               <pb n="14" facs="tcp:014450_0012_0F925F7E359D1130"/>Very <hi>far</hi> from any of us be the impious thought that we can poſſibly be under ſuch advantageous circumſtances in our warlike engagements as <hi>not</hi> to need the aids of Heaven.</p>
+               <pb n="14" facs="unknown:014450_0012_0F925F7E359D1130"/>Very <hi>far</hi> from any of us be the impious thought that we can poſſibly be under ſuch advantageous circumſtances in our warlike engagements as <hi>not</hi> to need the aids of Heaven.</p>
             <p>To truſt in our <hi>own</hi> bow, is not <hi>true courage,</hi> but <hi>madneſs.</hi>
             </p>
             <p>But laſtly, the pious king Jehoſhaphat, in his prayer, profeſſes to repoſe an entire truſt and con<g ref="char:EOLhyphen"/>fidence in <hi>God.</hi>
@@ -269,7 +270,7 @@ throng of brave and gallant ſoldiers: <hi>All</hi> in <hi>deep<g ref="char:EOLh
                <hi>God</hi> can with infinite eaſe baffle and diſcon<g ref="char:EOLhyphen"/>cert the deepeſt laid ſchemes, or <hi>cauſe one to chaſe a thouſand and ten to put ten thouſand to flight.</hi>
             </p>
             <p>
-               <pb n="15" facs="tcp:014450_0013_0F925F7EF74EB4E8"/>Therefore it is the great <hi>wiſdom and intereſt,</hi> as well as <hi>duty</hi> of a people or army, to put their entire truſt in <hi>Him</hi> for deliverence and ſucceſs, when under diſtreſſing difficulties, and eſpecially if called forth in a <hi>righteous</hi> cauſe to war againſt their enemies.</p>
+               <pb n="15" facs="unknown:014450_0013_0F925F7EF74EB4E8"/>Therefore it is the great <hi>wiſdom and intereſt,</hi> as well as <hi>duty</hi> of a people or army, to put their entire truſt in <hi>Him</hi> for deliverence and ſucceſs, when under diſtreſſing difficulties, and eſpecially if called forth in a <hi>righteous</hi> cauſe to war againſt their enemies.</p>
             <p>For if they do this, <hi>they need not fear what man can do unto them.</hi>
             </p>
             <p>Though ſurrounded by innumerable dangers, and all hopes of victory or eſcape, in an <hi>ordinary</hi> way of providence, ſhould be cut off, ſtill they have an <hi>unfailing</hi> refuge. Let them, with hearts <hi>ſincere and duly</hi> affected, look up to Heaven and ſay, <hi>we have no might, neither know we what to do, but our eyes are upon Thee;</hi> and the numerous wheels of divine providence would doubtleſs ſoon be ſet in ſwift motion for their relief.</p>
@@ -281,7 +282,7 @@ throng of brave and gallant ſoldiers: <hi>All</hi> in <hi>deep<g ref="char:EOLh
             <p>A <hi>few</hi> of which were hinted at in the <hi>morning,</hi> when we were called to mourn a <hi>departing</hi> God.<note n="*" place="bottom">The ſacred paſſage, which <hi>then</hi> directed our me<g ref="char:EOLhyphen"/>ditations, was Hoſea ix.12. Yea, wo alſo to them when I depart from them.</note>
             </p>
             <p>
-               <pb n="16" facs="tcp:014450_0014_0F925F7FDBF2B190"/>It would be <hi>painful</hi> to me to continue harping upon the <hi>plaintive</hi> ſtring, eſpecially when ad<g ref="char:EOLhyphen"/>dreſſing myſelf to thoſe who ſhare <hi>too deeply</hi> in our public troubles and diſtreſſes, <hi>not</hi> to have an <hi>impreſſive ſenſe</hi> of them.</p>
+               <pb n="16" facs="unknown:014450_0014_0F925F7FDBF2B190"/>It would be <hi>painful</hi> to me to continue harping upon the <hi>plaintive</hi> ſtring, eſpecially when ad<g ref="char:EOLhyphen"/>dreſſing myſelf to thoſe who ſhare <hi>too deeply</hi> in our public troubles and diſtreſſes, <hi>not</hi> to have an <hi>impreſſive ſenſe</hi> of them.</p>
             <p>To turn the <hi>bright</hi> ſide of things to view is much more pleaſant and agreeable.</p>
             <p>Let it ſuffice therefore to ſay that a dark cloud charged with fearful artillery, ſeems to be gather<g ref="char:EOLhyphen"/>ing and blackening around us; inſomuch that the language of divine providence to our long and highly favoured land has of late been evidently <hi>this; Blow the trumpet in Zion, call a ſolemn aſ<g ref="char:EOLhyphen"/>ſembly, proclaim a faſt.</hi> The trumpet has been blown, ſolemn aſſemblies have been called, &amp; <hi>ſuch</hi> a faſt is proclaimed as <hi>this</hi> land never <hi>before</hi> ſaw.</p>
             <p>The peculiarly ſolemn day is <hi>now</hi> revolving, when humble confeſſions and fervent prayers from the numerous ſocieties and aſſemblies, throughout all theſe United Colonies, (a much larger extent of territory than Jehoſhaphat was poſſeſſed of) are aſcending up to the <hi>Lord of Sabaoth.</hi>
@@ -292,7 +293,7 @@ throng of brave and gallant ſoldiers: <hi>All</hi> in <hi>deep<g ref="char:EOLh
             <p>It was a heavy charge againſt Iſrael that they <hi>faſted for ſtrife and debate, and to ſmite with the fiſts of wickedneſs.</hi>
             </p>
             <p>
-               <pb n="17" facs="tcp:014450_0015_0F925F80715009E8"/>And are <hi>we</hi> alſo chargeable with this foul im<g ref="char:EOLhyphen"/>putation? Are we in <hi>real rebellion</hi> againſt our lawful ſovereign? Have we riſen up in oppoſition to his <hi>juſt and ſalutary</hi> laws, and <hi>without ſufficient reaſon</hi> caſt off his government?</p>
+               <pb n="17" facs="unknown:014450_0015_0F925F80715009E8"/>And are <hi>we</hi> alſo chargeable with this foul im<g ref="char:EOLhyphen"/>putation? Are we in <hi>real rebellion</hi> againſt our lawful ſovereign? Have we riſen up in oppoſition to his <hi>juſt and ſalutary</hi> laws, and <hi>without ſufficient reaſon</hi> caſt off his government?</p>
             <p>And do we then pretend to ſeek God to aid and aſſiſt us in our <hi>traiterous</hi> proceedings?</p>
             <p>Heaven daring aſſurance, monſtrous impiety, would this be! But though a very guilty peo<g ref="char:EOLhyphen"/>ple; thanks be to thoſe kind, divine reſtraints that have kept us from being guilty of <hi>this</hi> charge.</p>
             <p>We not only <hi>think</hi> but <hi>know</hi> and <hi>feel</hi> that we have great reaſon to complain of <hi>oppreſſion and ty<g ref="char:EOLhyphen"/>ranny;</hi> that our privileges civil and ſacred, and our property are all at ſtake, and that we are loud<g ref="char:EOLhyphen"/>ly called upon to defend them at the <hi>riſk</hi> of <hi>life.</hi>
@@ -305,7 +306,7 @@ throng of brave and gallant ſoldiers: <hi>All</hi> in <hi>deep<g ref="char:EOLh
                <g ref="char:punc">▪</g> which our <hi>fore-fathers</hi> purchaſed with their <hi>blood</hi> and <hi>treaſure.</hi>
             </p>
             <p>
-               <pb n="18" facs="tcp:014450_0016_0F925F819EF9C388"/>O <hi>Britain, Britain!</hi> are <hi>theſe</hi> ſufficiently kind returns for <hi>our</hi> having contributed long and largely to thy wealth and grandeur?</p>
+               <pb n="18" facs="unknown:014450_0016_0F925F819EF9C388"/>O <hi>Britain, Britain!</hi> are <hi>theſe</hi> ſufficiently kind returns for <hi>our</hi> having contributed long and largely to thy wealth and grandeur?</p>
             <p>That <hi>England</hi> and <hi>not we,</hi> have been the <hi>ag<g ref="char:EOLhyphen"/>greſſors</hi> is undeniably evident.</p>
             <p>We uſed ever to conſider <hi>their</hi> intereſt and hap<g ref="char:EOLhyphen"/>pineſs as intimately connected with <hi>our own.</hi>
             </p>
@@ -319,7 +320,7 @@ throng of brave and gallant ſoldiers: <hi>All</hi> in <hi>deep<g ref="char:EOLh
             <p>
                <hi>Violence and oppreſſion</hi> daily <hi>increaſing</hi> on <hi>one</hi> hand, and <hi>prudent</hi> meaſures being come into on the <hi>other,</hi> in order to obtain <hi>redreſs</hi> of our nume<g ref="char:EOLhyphen"/>rous grievances and <hi>evade</hi> the galling chains, that were prepared for us, the memorable period at length came, when open <hi>hoſtilities</hi> commenced.</p>
             <p>
-               <pb n="19" facs="tcp:014450_0017_0F925F82404A8DF0"/>That the <hi>Lexington</hi> battle was <hi>begun</hi> by the <hi>Britiſh</hi> troops, is what with us admits of <hi>no</hi> doubt.</p>
+               <pb n="19" facs="unknown:014450_0017_0F925F82404A8DF0"/>That the <hi>Lexington</hi> battle was <hi>begun</hi> by the <hi>Britiſh</hi> troops, is what with us admits of <hi>no</hi> doubt.</p>
             <p>But allowing for once (though far from any <hi>colour</hi> of truth) that <hi>our</hi> party begun the fight, ſtill, as the <hi>others</hi> went out with an avowed deſign to <hi>ſteal,</hi> and to <hi>rob us of our property, they</hi> in reality were the <hi>firſt aggreſſors</hi>;
 <q>for he that arms him<g ref="char:EOLhyphen"/>ſelf to commit a robbery and demands the tra<g ref="char:EOLhyphen"/>veller's purſe by the terror of inſtant death, is the firſt aggreſſor, though the other ſhould take the advantage of diſcharging his piſtol firſt and killing the robber.</q>
                <note n="*" place="bottom">Preſident Langdon's Election Diſcourſe.</note>
@@ -330,7 +331,7 @@ throng of brave and gallant ſoldiers: <hi>All</hi> in <hi>deep<g ref="char:EOLh
             </p>
             <p>It is recorded of a <hi>Turkiſh</hi> general, that being called to engage a <hi>chriſtian</hi> army, which had bro<g ref="char:EOLhyphen"/>ken through the moſt ſolemn ties, he ſtood up at the head of his troops, and then taking out the <hi>treaty</hi> that they had violated, and holding it up to view, thus addreſſed the throne of Heaven<g ref="char:punc">▪</g>
                <q>O Almighty Being, if thou art, as they ſay thou art, theſe chriſtians God, thou loveſt what is right and hateſt <hi>perfidy</hi>; look down therefore and behold this treaty which <hi>they</hi> have broken,
-<pb n="20" facs="tcp:014450_0018_0F925F841419FB18"/>
+<pb n="20" facs="unknown:014450_0018_0F925F841419FB18"/>
 and as Thou canſt not favor what is wrong, render <hi>their</hi> arms <hi>ſucceſsleſs</hi> and make <hi>mine victorious.</hi>
                </q>
 — He ended—immediately the ſword was <hi>drawn</hi>— The two parties vigorouſly engaged, and the perfidious <hi>chriſtians</hi> were beat<g ref="char:EOLhyphen"/>en off the field.</p>
@@ -342,7 +343,7 @@ and as Thou canſt not favor what is wrong, render <hi>their</hi> arms <hi>ſucc
             </p>
             <p>What then remains, but that we repoſe our en<g ref="char:EOLhyphen"/>tire truſt and confidence in this almighty, moſt kind and gracious Being, who hath thus begun to appear for us?</p>
             <p>Bleſſed be God, if we look to <hi>ſecond</hi> cauſes, we have wiſe and able politicians, gallant officers, and many thouſands of as brave, undaunted ſoldi<g ref="char:EOLhyphen"/>ers as ever faced a foe; but ſtill there is abundant
-<pb n="21" facs="tcp:014450_0019_0F925F84477560C8"/>
+<pb n="21" facs="unknown:014450_0019_0F925F84477560C8"/>
 reaſon to confeſs that of ourſelves <hi>we have no might</hi> againſt our enemies, <hi>neither know what to do.</hi>
             </p>
             <p>And to this confeſſion, we may juſtly add an humble acknowledgment of our ſhameful <hi>back<g ref="char:EOLhyphen"/>ſlidings</hi> and <hi>ſinfulneſs</hi> as a people, and our utter <hi>unworthineſs</hi> of divine favors.</p>
@@ -355,7 +356,7 @@ reaſon to confeſs that of ourſelves <hi>we have no might</hi> againſt our en
             <p>You have come forth to jeopard your lives in defence of your friends and relations, your coun<g ref="char:EOLhyphen"/>try, religion, liberty, and almoſt every thing that is dear and ſacred. In a <hi>nobler</hi> cauſe, mortals were never engaged</p>
             <p>Of your cordial love to your country and gene<g ref="char:EOLhyphen"/>ral courage and reſolution to defend it, none can entertain a doubt.</p>
             <p>
-               <pb n="22" facs="tcp:014450_0020_0F925F84F06000B0"/>There is not, I preſume, a <hi>ſingle one</hi> among you all, who would not <hi>diſdain</hi> to be guilty of <hi>cowardice,</hi> to deſert his colours, or let his ſword reſt quietly in its ſcabbard, whenever <hi>the Lord gives it a charge</hi> againſt the invaders of <hi>Boſton and the ſea ſhore.</hi>
+               <pb n="22" facs="unknown:014450_0020_0F925F84F06000B0"/>There is not, I preſume, a <hi>ſingle one</hi> among you all, who would not <hi>diſdain</hi> to be guilty of <hi>cowardice,</hi> to deſert his colours, or let his ſword reſt quietly in its ſcabbard, whenever <hi>the Lord gives it a charge</hi> againſt the invaders of <hi>Boſton and the ſea ſhore.</hi>
             </p>
             <p>May your abhorrence of every vicious prac<g ref="char:EOLhyphen"/>tice, and ſtrict adherence to the rules of virtue and religion, be no leſs conſpicuous than your cou<g ref="char:EOLhyphen"/>rage and magnanimity.</p>
             <p>What a pity 'tis, dear friends, that the <hi>camp</hi> ſhould ſo commonly be a ſchool of <hi>vice?</hi> that they who are <hi>moſt expoſed</hi> to death, ſhould be <hi>leaſt</hi> careful to <hi>prepare</hi> for it?</p>
@@ -363,7 +364,7 @@ reaſon to confeſs that of ourſelves <hi>we have no might</hi> againſt our en
             <p>It has been frequently obſerved, to the ſignal honour of our <hi>preſent</hi> American forces, that in ge<g ref="char:EOLhyphen"/>neral, they are remarkably <hi>civil well-behaved,</hi> and <hi>free</hi> from <hi>drunkeneſs, prophaneneſs,</hi> or any <hi>other</hi> ſcandalous practices.</p>
             <p>
                <hi>How goodly are thy tents. O Jacob, and thy ta<g ref="char:EOLhyphen"/>bernacles, O Iſrael!</hi> —How beautiful and lovely to ſee ſo large an army of men inſpired with heroic ſentiments, engaged in a glorious cauſe, animated therein by the moſt generous motives, and in a <hi>general</hi> view, <hi>ſtrangers</hi> to the
-<pb n="23" facs="tcp:014450_0021_0F925F8869B27BF8"/>
+<pb n="23" facs="unknown:014450_0021_0F925F8869B27BF8"/>
 ſhameful <hi>vices,</hi> to which ſoldiers of the preſent age (our provincials excepted) have been <hi>com<g ref="char:EOLhyphen"/>monly</hi> and almoſt <hi>univerſally</hi> addicted!</p>
             <p>That each day may ſet your reſpective charac<g ref="char:EOLhyphen"/>ters in a ſtill <hi>fairer</hi> light, is the hearty prayer of every well-wiſher to his country.—I beg and beſeech you induſtriouſly to cultivate and promote union, peace, love, harmony and friendſhip among yourſelves.— <hi>Behold, how good and how pleaſant it is for brethren,</hi> or ſoldiers in one common cauſe, <hi>to dwell together in unity!</hi>
             </p>
@@ -372,7 +373,7 @@ reaſon to confeſs that of ourſelves <hi>we have no might</hi> againſt our en
             </p>
             <p>And may all of you, <hi>gentlemen</hi> and <hi>ſoldiers,</hi> in your ſeveral departments, exert yourſelves to <hi>purge</hi> from the <hi>camp every accurſed thing.</hi> Nor is it ſufficient that you be <hi>negatively</hi> good or free from <hi>open, ſcandalous</hi> vices; but, if you would be ſafe and happy here, and at laſt enjoy the bright unfading glories of <hi>Heaven,</hi> you <hi>muſt</hi> be <hi>born again, waſhed, ſanctified and juſtified, in the name of the Lord Jeſus,</hi> and by his ſpirit.</p>
             <p>
-               <pb n="24" facs="tcp:014450_0022_0F925F8A0942F8C0"/>You muſt inliſt under the great captain of ſal<g ref="char:EOLhyphen"/>vation; and this ſhould be done <hi>ſpeedily</hi> or it <hi>may</hi> be too late. Let me, dear ſouls, "addreſs you as a dying man to dying men."</p>
+               <pb n="24" facs="unknown:014450_0022_0F925F8A0942F8C0"/>You muſt inliſt under the great captain of ſal<g ref="char:EOLhyphen"/>vation; and this ſhould be done <hi>ſpeedily</hi> or it <hi>may</hi> be too late. Let me, dear ſouls, "addreſs you as a dying man to dying men."</p>
             <p>To <hi>others</hi> and to <hi>all,</hi> it may with propriety be ſaid, boaſt <hi>not yourſelves of to-morrow; for ye know not what a day may bring forth:</hi> but who are ſo expoſed as <hi>you,</hi> to be <hi>ſuddenly</hi> ſnatched out of time into eternity?</p>
             <p>Think not that your being <hi>ſoldiers</hi> bold and brave <hi>ſecures</hi> you from the arreſts of death. Is he that rides upon the pale horſe afraid to ven<g ref="char:EOLhyphen"/>ture upon a <hi>ſoldier</hi>? The dying groans of millions who have fallen in battle, witneſs that he is not.</p>
             <p>Think not that religion is <hi>unbecoming</hi> your profeſſion.—A thouſand things might be ſaid, and numerous inſtances offered, to ſhow that to join the chriſtian to the ſoldier, is highly beautiful and ornamental.</p>
@@ -381,7 +382,7 @@ reaſon to confeſs that of ourſelves <hi>we have no might</hi> againſt our en
             </p>
             <p>As this is of the laſt importance, I beg and in<g ref="char:EOLhyphen"/>treat you by all that is dear and ſacred, dreadful or delightful, not to neglect or poſtpone it.</p>
             <p>
-               <pb n="25" facs="tcp:014450_0023_0F925F8A3A54F008"/>What ſhall I further ſay?—I fear I have treſpaſſed <hi>already</hi> too long upon your patience. Will therefore add but <hi>little</hi> more than my ardent wiſhes for your ſucceſs and happineſs. You have, dear brethren, the daily prayers of many thouſands. Your miniſters, your friends, and your whole country, endeared by every tender tie. (a very few only excepted) are <hi>anxious</hi> for your ſafety and ſucceſs.</p>
+               <pb n="25" facs="unknown:014450_0023_0F925F8A3A54F008"/>What ſhall I further ſay?—I fear I have treſpaſſed <hi>already</hi> too long upon your patience. Will therefore add but <hi>little</hi> more than my ardent wiſhes for your ſucceſs and happineſs. You have, dear brethren, the daily prayers of many thouſands. Your miniſters, your friends, and your whole country, endeared by every tender tie. (a very few only excepted) are <hi>anxious</hi> for your ſafety and ſucceſs.</p>
             <p>When, at a diſtance, we hear the cannons roar, we are paired with anxious concern for you; and our hearts replete with tenderneſs inexpreſſible, re-echo to every volley, "Heaven protect, de<g ref="char:EOLhyphen"/>fend and ſucceed the brave and generous guar<g ref="char:EOLhyphen"/>dians of our privileges and lives." The very <hi>infants,</hi> at their mothers breaſts, I had almoſt ſaid, liſp out a prayer for you.</p>
             <p>May the infinitely gracious God hear <hi>the</hi> nu<g ref="char:EOLhyphen"/>merous petitions that are offered up in your be<g ref="char:EOLhyphen"/>half. May He ſcreen you from al harm, render your arms victorious, and in his own time, gently waft <hi>you</hi> and <hi>all</hi> of us to thoſe calm and peaceful regions, where the ear is not wounded with the confuſed noiſe of war nor the eye tormented with the piteous, affecting ſight of mangled bodies, and garments rolled in blood; where joy unſpeakably ſublime forever dwells; where hateful tyrants, cruel oppreſſors, and traiterous villains, <hi>ſtained</hi> with the blood of their country, without repentance and a thorough change, can never come.</p>
             <trailer>FINIS.</trailer>
